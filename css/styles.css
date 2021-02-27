@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: #262626;
+}
+.container{
+    width: 300px;
+    min-width: 600px;
+    margin: 0 auto;
+}
+.header{
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.header h1{
+    text-align: center;
+    color: #f3f3f3;
+}
+.textInput{
+    width: 70%;
+    height: 40px;
+    margin: 10px 10px 10px 0px;
+    padding: 5px;
+    color: #262626;
+    font-size: 16px;
+    font-weight: bold;
+}
+.button{
+    color: #262626;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.addButton{
+    width: 10%;
+    height: 40px;
+    background: #94ff74;
+    border: none;
+    
+}
+.randomButton{
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    background: #fff674;
+    border: none;;
+}
+.addButton:hover{
+    transition: .4s ease-out;
+    background: #befca1;
+}
+.randomButton:hover{
+    transition: .4s ease-out;
+    background: #fcf6a1;
+}
+.textResult{
+    color: #f3f3f3;
+    text-align: center;
+    padding: 15px;
+    background: #707070;
+    border-radius: 8px;
+}
+.list h3{
+    color: #f2f2f2;
+    margin-top: 10px;
+}
+.item{
+    padding: 15px;
+    text-align: center;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
