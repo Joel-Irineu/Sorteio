@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  ☕ #100DaysOFCode
+  ☕ #CodeAndCoffe
 </h4>
 
 <p align="center">
@@ -29,9 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto faz parte do desafio 100DaysOfCode, que tem como objetivo estimular o aprendizado continuo do programador, Para o projeto 005/100 fiz um web app de sorteio com html, css e javascript.
-
-Você pode saber mais sobre o desafio em: https://www.100daysofcode.com/
+O Projeto consiste em um App de sorteio onde se registra os itens desejados e após isso é feito um sorteio randomico para que se apresente na tela o resultado!
 
 
 ## :memo: Licença
